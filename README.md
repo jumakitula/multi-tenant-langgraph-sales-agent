@@ -320,9 +320,7 @@ pytest                 # Tests
 
 ---
 
-## License
 
-MIT — use it, fork it, sell it, build your empire.
 
 ---
 
